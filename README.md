@@ -6,7 +6,6 @@
 
 - Treinar comandos de envio e versionamento com Git.
 - Familiarizar-se com o uso de `git add`, `git commit`, `git push`.
-- Verificar integração com repositórios remotos.
 
 ---
 
